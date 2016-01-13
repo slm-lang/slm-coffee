@@ -1,0 +1,26 @@
+{
+  "name": "slm-coffee",
+  "version": "1.0.0",
+  "description": "Coffeescript plugin for Slm",
+  "author": "Joshua \"JD\" Davison <joshua@davison.asia>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ozjd/slm-coffee.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ozjd/slm-coffee/issues"
+  },
+  "keywords": [
+    "slm",
+    "slim",
+    "coffee",
+    "coffee-script",
+    "coffeescript"
+  ],
+  "dependencies": {
+    "coffee-script": "^1.10.0",
+    "slm": "^0.5.0"
+  },
+  "license": "MIT"
+}
