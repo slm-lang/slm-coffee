@@ -16,7 +16,7 @@
     slmCoffee = require('slm-coffee');
     slmCoffee.register(slm.template);
 
-_Note: slmCoffee.register can take three parameters; template (as above, engineName (default is 'coffee'), and options (see [coffeescript.compile() options](http://coffeescript.org/documentation/docs/command.html#section-5))_
+_Note: slmCoffee.register can take three parameters; template (as above), engineName (default is 'coffee'), and options (see [coffeescript.compile() options](http://coffeescript.org/documentation/docs/command.html#section-5))_
 
 ### As an ExpressJS template engine
 
